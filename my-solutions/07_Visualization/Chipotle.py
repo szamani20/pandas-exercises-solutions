@@ -1,5 +1,4 @@
 import pandas as pd
-import collections
 import matplotlib.pyplot as plt
 
 pd.set_option('display.expand_frame_repr', False)
