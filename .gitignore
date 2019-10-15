@@ -1,4 +1,8 @@
 dataset/
 .idea/
 *.iml
-
+data/
+nlp/data/
+*.csv
+.ipynb_checkpoints/
+*.swp
